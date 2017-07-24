@@ -1,0 +1,1531 @@
+"code","entity","nr","date","vote","key","turnout"
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0.4588
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","Stimmbeteiligung",0.3336
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","Stimmbeteiligung",0.3198
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0.515
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0.2864
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0.3761
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0.3751
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0.4286
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.5088
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0.5536
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0.4963
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0.4462
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0.3854
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0.4127
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","Stimmbeteiligung",0.3892
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0.3728
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0.4763
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","Stimmbeteiligung",0.3407
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","Stimmbeteiligung",0.3238
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0.5183
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0.2956
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0.3832
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0.3872
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0.4504
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.5075
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0.5629
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0.5016
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0.4463
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0.3952
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0.4293
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","Stimmbeteiligung",0.4023
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0.3867
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0.444
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","Stimmbeteiligung",0.3271
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","Stimmbeteiligung",0.3162
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0.5119
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0.2781
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0.3695
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0.3646
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0.41
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.5099
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0.5458
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0.4914
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0.446
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0.3764
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0.3985
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","Stimmbeteiligung",0.378
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0.36
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",-0.0323
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","Stimmbeteiligung",-0.0136
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","Stimmbeteiligung",-0.0076
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",-0.0064
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",-0.0175
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",-0.0137
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",-0.0226
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",-0.0404
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.0024
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",-0.0171
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",-0.0102
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",-3e-04
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",-0.0188
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",-0.0308
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","Stimmbeteiligung",-0.0243
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",-0.0267
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","Stimmbeteiligung",0
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0.4437
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","Stimmbeteiligung",0.3699
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","Stimmbeteiligung",0.4575
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0.4469
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0.3309
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0.4507
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0.4564
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0.47
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.5089
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0.5317
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0.56
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0.4718
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0.5258
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0.4129
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","Stimmbeteiligung",0.34
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","Stimmbeteiligung",0.3767
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","Stimmbeteiligung",0.434
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0.4977
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0.4708
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","Stimmbeteiligung",0.3922
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","Stimmbeteiligung",0.4638
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0.468
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0.3534
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0.4678
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0.468
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0.4893
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.5317
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0.5491
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0.5801
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0.4798
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0.5462
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0.4315
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","Stimmbeteiligung",0.3652
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","Stimmbeteiligung",0.3876
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","Stimmbeteiligung",0.4462
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0.5248
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",-0.0499
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","Stimmbeteiligung",-0.041
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","Stimmbeteiligung",-0.0116
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",-0.0389
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",-0.0415
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",-0.0316
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",-0.0215
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",-0.0357
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","Stimmbeteiligung",-0.0422
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",-0.0322
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",-0.0371
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",-0.0148
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",-0.0377
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",-0.0345
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","Stimmbeteiligung",-0.0468
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","Stimmbeteiligung",-0.0202
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","Stimmbeteiligung",-0.0225
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",-0.0502
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","Stimmbeteiligung",0
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","Stimmbeteiligung",0
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","Stimmbeteiligung",0
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","Stimmbeteiligung",0
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","Stimmbeteiligung",0
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","Stimmbeteiligung",0.4209
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","Stimmbeteiligung",0.3512
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","Stimmbeteiligung",0.4522
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","Stimmbeteiligung",0.4291
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","Stimmbeteiligung",0.3119
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","Stimmbeteiligung",0.4362
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","Stimmbeteiligung",0.4465
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","Stimmbeteiligung",0.4536
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","Stimmbeteiligung",0.4895
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","Stimmbeteiligung",0.5169
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","Stimmbeteiligung",0.543
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","Stimmbeteiligung",0.465
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","Stimmbeteiligung",0.5085
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","Stimmbeteiligung",0.397
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","Stimmbeteiligung",0.3184
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","Stimmbeteiligung",0.3674
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","Stimmbeteiligung",0.4237
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","Stimmbeteiligung",0.4746
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.3362
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","18 bis 19 Jahre",0.2592
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.1792
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.4354
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.174
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.2489
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.2601
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.3772
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.3857
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.4551
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.42
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.3229
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.2891
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.29
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.2685
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.2688
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.3333
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","18 bis 19 Jahre",0.2482
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.1782
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.4278
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.1703
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.229
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.2469
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.3811
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.3736
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.4125
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.4107
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.3009
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.2794
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.2744
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.2451
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.2534
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.3391
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","18 bis 19 Jahre",0.2707
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.1802
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.4431
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.1778
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.2692
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.2741
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.3731
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.3984
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.504
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.4302
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.347
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.2995
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.307
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.2934
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.285
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.0058
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","18 bis 19 Jahre",0.0225
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.002
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.0153
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.0075
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.0402
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.0272
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",-0.008
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.0248
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.0915
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.0195
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.0461
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.0201
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.0326
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.0483
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.0316
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",-0.1226
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","18 bis 19 Jahre",-0.0744
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","18 bis 19 Jahre",-0.1406
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",-0.0796
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",-0.1124
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",-0.1272
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",-0.115
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",-0.0514
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",-0.1231
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",-0.0985
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",-0.0763
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",-0.1233
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",-0.0963
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",-0.1227
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","18 bis 19 Jahre",-0.1207
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",-0.104
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.3431
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","18 bis 19 Jahre",0.2496
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.2783
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.3105
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.2075
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.4965
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.4214
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.4136
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.3615
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.6504
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.5792
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.3507
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.4215
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.4153
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","18 bis 19 Jahre",0.3573
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","18 bis 19 Jahre",0.3414
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.4
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.4619
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.3779
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","18 bis 19 Jahre",0.2709
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.2827
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.316
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.2114
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.4824
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.4326
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.406
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.3882
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.6456
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.5679
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.3719
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.435
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.4276
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","18 bis 19 Jahre",0.4091
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","18 bis 19 Jahre",0.3761
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.4231
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.4587
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",-0.0716
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","18 bis 19 Jahre",-0.0442
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","18 bis 19 Jahre",-0.009
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",-0.0112
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",-0.008
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.0283
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",-0.0221
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.0153
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",-0.0528
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.0096
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.0224
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",-0.0414
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",-0.0264
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",-0.0238
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","18 bis 19 Jahre",-0.0998
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","18 bis 19 Jahre",-0.068
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","18 bis 19 Jahre",-0.0454
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.0063
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",-0.1006
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","18 bis 19 Jahre",-0.1203
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","18 bis 19 Jahre",-0.1792
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",-0.1364
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",-0.1234
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.0458
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",-0.035
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",-0.0564
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",-0.1474
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.1187
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.0192
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",-0.1211
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",-0.1043
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.0024
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","18 bis 19 Jahre",0.0173
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","18 bis 19 Jahre",-0.0353
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","18 bis 19 Jahre",-0.034
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",-0.0358
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","18 bis 19 Jahre",0.3063
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","18 bis 19 Jahre",0.2267
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","18 bis 19 Jahre",0.2737
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","18 bis 19 Jahre",0.3048
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","18 bis 19 Jahre",0.2034
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","18 bis 19 Jahre",0.5107
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","18 bis 19 Jahre",0.4105
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","18 bis 19 Jahre",0.4213
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","18 bis 19 Jahre",0.3354
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","18 bis 19 Jahre",0.6552
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","18 bis 19 Jahre",0.5903
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","18 bis 19 Jahre",0.3305
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","18 bis 19 Jahre",0.4086
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","18 bis 19 Jahre",0.4038
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","18 bis 19 Jahre",0.3093
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","18 bis 19 Jahre",0.3081
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","18 bis 19 Jahre",0.3777
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","18 bis 19 Jahre",0.465
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.2928
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","20 bis 29 Jahre",0.1952
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.1546
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.374
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",0.1371
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.2129
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",0.2074
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",0.2926
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.3534
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.3919
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",0.3523
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.2734
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.2337
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",0.2311
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.2167
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.2426
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.2828
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","20 bis 29 Jahre",0.1898
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.1479
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.3657
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",0.1372
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.2071
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",0.2095
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",0.3106
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.3312
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.3765
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",0.353
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.2661
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.2327
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",0.2354
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.2113
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.241
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.3025
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","20 bis 29 Jahre",0.2007
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.1613
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.3825
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",0.1371
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.2189
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",0.2054
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",0.2748
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.3761
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.4072
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",0.3515
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.2808
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.2347
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",0.2267
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.2222
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.2443
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.0197
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","20 bis 29 Jahre",0.0109
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.0134
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.0168
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",-1e-04
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.0118
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",-0.0041
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",-0.0358
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.0449
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.0307
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",-0.0015
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.0147
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.0019
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",-0.0087
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.0109
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.0033
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",-0.166
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","20 bis 29 Jahre",-0.1384
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","20 bis 29 Jahre",-0.1652
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",-0.141
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",-0.1493
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",-0.1632
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",-0.1677
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",-0.136
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",-0.1554
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",-0.1617
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",-0.144
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",-0.1728
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",-0.1517
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",-0.1816
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","20 bis 29 Jahre",-0.1725
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",-0.1302
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.2592
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","20 bis 29 Jahre",0.2134
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.2693
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.3093
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",0.1743
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.2859
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",0.3084
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",0.3539
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.3894
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.436
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",0.5073
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.3546
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.4648
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",0.3107
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","20 bis 29 Jahre",0.2703
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","20 bis 29 Jahre",0.2611
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.3512
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.53
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.2706
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","20 bis 29 Jahre",0.2222
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.2558
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.3046
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",0.1827
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.2931
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",0.3092
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",0.3738
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.4011
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.438
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",0.5165
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.3435
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.4698
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",0.3227
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","20 bis 29 Jahre",0.2871
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","20 bis 29 Jahre",0.2587
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.3495
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.5476
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",-0.0215
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","20 bis 29 Jahre",-0.0167
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.0256
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.009
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",-0.016
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",-0.0137
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",-0.0017
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",-0.038
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",-0.0224
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",-0.0039
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",-0.0176
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.0212
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",-0.0095
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",-0.0229
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","20 bis 29 Jahre",-0.0322
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","20 bis 29 Jahre",0.0046
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.0034
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",-0.0338
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",-0.1845
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","20 bis 29 Jahre",-0.1565
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","20 bis 29 Jahre",-0.1882
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",-0.1376
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",-0.1566
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",-0.1648
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",-0.148
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",-0.1161
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",-0.1195
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",-0.0957
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",-0.0527
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",-0.1172
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",-0.061
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",-0.1022
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","20 bis 29 Jahre",-0.0697
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","20 bis 29 Jahre",-0.1156
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","20 bis 29 Jahre",-0.0828
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.0323
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","20 bis 29 Jahre",0.2491
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","20 bis 29 Jahre",0.2055
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","20 bis 29 Jahre",0.2814
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","20 bis 29 Jahre",0.3136
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","20 bis 29 Jahre",0.1667
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","20 bis 29 Jahre",0.2794
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","20 bis 29 Jahre",0.3075
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","20 bis 29 Jahre",0.3358
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","20 bis 29 Jahre",0.3787
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","20 bis 29 Jahre",0.4341
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","20 bis 29 Jahre",0.4989
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","20 bis 29 Jahre",0.3647
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","20 bis 29 Jahre",0.4603
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","20 bis 29 Jahre",0.2998
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","20 bis 29 Jahre",0.2549
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","20 bis 29 Jahre",0.2633
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","20 bis 29 Jahre",0.3529
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","20 bis 29 Jahre",0.5138
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",0.3504
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","30 bis 39 Jahre",0.2251
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.1811
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.3913
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",0.1609
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",0.2416
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",0.226
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",0.2886
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.3892
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.4226
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",0.3557
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.2986
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",0.2361
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",0.2618
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0.2386
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",0.2521
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",0.3548
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","30 bis 39 Jahre",0.2167
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.1793
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.3868
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",0.165
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",0.2412
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",0.2282
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",0.2971
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.3748
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.4166
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",0.3566
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.2907
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",0.238
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",0.267
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0.2386
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",0.2564
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",0.3463
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","30 bis 39 Jahre",0.2333
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.1828
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.3957
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",0.1568
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",0.2419
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",0.2239
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",0.2807
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.4033
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.4282
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",0.3549
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.3064
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",0.2342
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",0.257
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0.2386
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",0.2478
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",-0.0085
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","30 bis 39 Jahre",0.0166
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.0035
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.0089
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",-0.0082
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",7e-04
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",-0.0043
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",-0.0164
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.0285
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.0116
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",-0.0017
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.0157
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",-0.0038
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",-0.0099
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",-0.0086
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",-0.1084
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","30 bis 39 Jahre",-0.1085
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","30 bis 39 Jahre",-0.1387
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",-0.1237
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",-0.1255
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",-0.1345
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",-0.1491
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",-0.14
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",-0.1196
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",-0.131
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",-0.1406
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",-0.1476
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",-0.1493
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",-0.1509
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","30 bis 39 Jahre",-0.1507
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",-0.1207
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",0.3219
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","30 bis 39 Jahre",0.2683
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.3397
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.3654
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",0.2284
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",0.3416
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",0.3254
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",0.3597
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.4281
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.4164
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",0.4435
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.337
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",0.4164
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",0.2648
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","30 bis 39 Jahre",0.239
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","30 bis 39 Jahre",0.2394
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0.3048
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",0.4145
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",0.3314
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","30 bis 39 Jahre",0.2761
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.3331
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.3734
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",0.2398
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",0.3499
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",0.3351
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",0.3669
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.4356
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.432
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",0.4592
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.3417
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",0.4409
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",0.2793
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","30 bis 39 Jahre",0.2485
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","30 bis 39 Jahre",0.2447
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0.3152
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",0.4331
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",-0.0192
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","30 bis 39 Jahre",-0.0158
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.0135
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",-0.0164
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",-0.0233
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",-0.0169
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",-0.0196
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",-0.0145
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",-0.0152
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",-0.0314
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",-0.0317
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",-0.0095
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",-0.0493
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",-0.0292
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","30 bis 39 Jahre",-0.0192
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","30 bis 39 Jahre",-0.0108
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","30 bis 39 Jahre",-0.0209
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",-0.0376
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",-0.1218
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","30 bis 39 Jahre",-0.1016
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","30 bis 39 Jahre",-0.1178
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",-0.0815
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",-0.1025
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",-0.1091
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",-0.131
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",-0.1103
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",-0.0808
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",-0.1153
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",-0.1165
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",-0.1348
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",-0.1094
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",-0.1481
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","30 bis 39 Jahre",-0.101
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","30 bis 39 Jahre",-0.1373
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","30 bis 39 Jahre",-0.1292
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",-0.0832
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","30 bis 39 Jahre",0.3122
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","30 bis 39 Jahre",0.2603
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","30 bis 39 Jahre",0.3466
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","30 bis 39 Jahre",0.357
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","30 bis 39 Jahre",0.2165
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","30 bis 39 Jahre",0.333
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","30 bis 39 Jahre",0.3155
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","30 bis 39 Jahre",0.3524
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","30 bis 39 Jahre",0.4204
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","30 bis 39 Jahre",0.4006
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","30 bis 39 Jahre",0.4275
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","30 bis 39 Jahre",0.3322
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","30 bis 39 Jahre",0.3916
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","30 bis 39 Jahre",0.2501
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","30 bis 39 Jahre",0.2293
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","30 bis 39 Jahre",0.2339
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","30 bis 39 Jahre",0.2943
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","30 bis 39 Jahre",0.3955
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",0.4207
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","40 bis 49 Jahre",0.3036
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.2521
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.4813
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",0.2265
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",0.3138
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",0.3083
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",0.3759
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.4734
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.5071
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.4476
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.3917
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.3121
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",0.3443
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","40 bis 49 Jahre",0.3163
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.313
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",0.4303
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","40 bis 49 Jahre",0.3021
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.2511
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.4739
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",0.2289
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",0.3198
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",0.3141
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",0.3813
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.4671
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.5078
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.4426
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.3883
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.3186
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",0.3513
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","40 bis 49 Jahre",0.3216
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.321
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",0.4119
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","40 bis 49 Jahre",0.305
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.253
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.4885
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",0.2241
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",0.308
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",0.303
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",0.3708
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.4795
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.5065
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.4524
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.3949
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.3058
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",0.3379
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","40 bis 49 Jahre",0.3114
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.3053
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",-0.0184
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","40 bis 49 Jahre",0.0029
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.0019
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.0146
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",-0.0048
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",-0.0118
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",-0.0111
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",-0.0105
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.0124
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",-0.0013
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.0098
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.0066
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",-0.0128
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",-0.0135
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","40 bis 49 Jahre",-0.0102
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",-0.0157
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",-0.0381
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","40 bis 49 Jahre",-0.03
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","40 bis 49 Jahre",-0.0677
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",-0.0337
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",-0.0599
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",-0.0623
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",-0.0668
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",-0.0527
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",-0.0354
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",-0.0465
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",-0.0487
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",-0.0545
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",-0.0733
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",-0.0684
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","40 bis 49 Jahre",-0.0729
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",-0.0598
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",0.4072
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","40 bis 49 Jahre",0.3407
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.4265
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.4076
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",0.2966
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",0.4365
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",0.4309
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",0.4493
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.4982
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.5371
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.5652
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.4714
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.5286
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",0.4096
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","40 bis 49 Jahre",0.3538
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","40 bis 49 Jahre",0.3856
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","40 bis 49 Jahre",0.4329
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.5153
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",0.4188
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","40 bis 49 Jahre",0.3507
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.421
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.4219
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",0.3122
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",0.4491
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",0.4381
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",0.4574
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.5174
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.5461
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.5762
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.473
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.5366
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",0.4237
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","40 bis 49 Jahre",0.3641
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","40 bis 49 Jahre",0.3852
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","40 bis 49 Jahre",0.4429
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.5274
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",-0.0231
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","40 bis 49 Jahre",-0.02
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.011
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",-0.0285
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",-0.0308
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",-0.025
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",-0.0143
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",-0.016
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",-0.038
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",-0.0179
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",-0.0216
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",-0.0094
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",-0.0157
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",-0.0277
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","40 bis 49 Jahre",-0.0202
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","40 bis 49 Jahre",8e-04
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","40 bis 49 Jahre",-0.0197
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",-0.0239
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",-0.0365
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","40 bis 49 Jahre",-0.0292
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","40 bis 49 Jahre",-0.031
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",-0.0393
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",-0.0343
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",-0.0142
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",-0.0255
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",-0.0207
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",-0.0107
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.0054
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.0052
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",-4e-04
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.0028
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",-0.0033
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","40 bis 49 Jahre",0.0138
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","40 bis 49 Jahre",0.0089
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","40 bis 49 Jahre",-0.0011
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.0176
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","40 bis 49 Jahre",0.3957
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","40 bis 49 Jahre",0.3307
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","40 bis 49 Jahre",0.432
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","40 bis 49 Jahre",0.3934
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","40 bis 49 Jahre",0.2814
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","40 bis 49 Jahre",0.4241
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","40 bis 49 Jahre",0.4238
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","40 bis 49 Jahre",0.4414
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","40 bis 49 Jahre",0.4794
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","40 bis 49 Jahre",0.5282
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","40 bis 49 Jahre",0.5546
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","40 bis 49 Jahre",0.4636
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","40 bis 49 Jahre",0.5209
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","40 bis 49 Jahre",0.396
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","40 bis 49 Jahre",0.3439
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","40 bis 49 Jahre",0.386
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","40 bis 49 Jahre",0.4232
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","40 bis 49 Jahre",0.5035
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.5095
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","50 bis 59 Jahre",0.369
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.3553
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.5709
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.3148
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.4133
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.4137
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.4696
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.5608
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.6173
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.5381
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.4952
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.4106
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.4478
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.4285
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.3998
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.5295
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","50 bis 59 Jahre",0.3728
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.3568
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.5666
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.3193
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.4139
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.4267
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.4847
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.5524
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.6277
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.5334
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.4914
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.4158
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.4682
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.4448
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.4107
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.4915
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","50 bis 59 Jahre",0.3652
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.3538
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.5751
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.3103
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.4127
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.4019
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.4561
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.5692
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.6078
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.5429
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.4989
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.4054
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.4292
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.4136
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.389
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",-0.038
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","50 bis 59 Jahre",-0.0076
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","50 bis 59 Jahre",-0.003
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.0085
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",-0.009
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",-0.0012
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",-0.0248
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",-0.0286
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.0168
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",-0.0199
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.0095
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.0075
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",-0.0104
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",-0.039
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","50 bis 59 Jahre",-0.0312
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",-0.0217
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.0507
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","50 bis 59 Jahre",0.0354
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.0355
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.0559
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.0284
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.0372
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.0386
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.041
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.052
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.0637
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.0418
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.049
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.0252
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.0351
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.0393
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.027
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.4995
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","50 bis 59 Jahre",0.4178
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.5185
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.4825
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.3702
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.4936
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.5001
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.5021
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.5522
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.5794
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.5961
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.5148
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.5596
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.4497
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","50 bis 59 Jahre",0.3694
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","50 bis 59 Jahre",0.4236
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.4705
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.5083
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.5092
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","50 bis 59 Jahre",0.4258
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.5191
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.5012
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.3863
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.5014
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.5025
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.507
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.5629
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.582
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.6016
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.518
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.5623
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.4584
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","50 bis 59 Jahre",0.3858
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","50 bis 59 Jahre",0.4246
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.4669
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.5206
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",-0.0182
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","50 bis 59 Jahre",-0.015
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","50 bis 59 Jahre",-0.0012
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",-0.0353
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",-0.0303
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",-0.0149
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",-0.0045
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",-0.0093
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",-0.0203
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",-0.005
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",-0.0106
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",-0.006
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",-0.0052
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",-0.0168
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","50 bis 59 Jahre",-0.0315
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","50 bis 59 Jahre",-0.0019
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.0069
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",-0.0236
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.0558
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","50 bis 59 Jahre",0.0476
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.061
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.0356
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.0393
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.0429
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.0437
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.0321
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.0433
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.0477
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.0361
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.043
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.0338
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.0368
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","50 bis 59 Jahre",0.0294
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","50 bis 59 Jahre",0.0469
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.0365
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.0106
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","50 bis 59 Jahre",0.491
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","50 bis 59 Jahre",0.4108
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","50 bis 59 Jahre",0.5179
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","50 bis 59 Jahre",0.4659
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","50 bis 59 Jahre",0.356
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","50 bis 59 Jahre",0.4865
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","50 bis 59 Jahre",0.498
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","50 bis 59 Jahre",0.4977
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","50 bis 59 Jahre",0.5426
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","50 bis 59 Jahre",0.577
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","50 bis 59 Jahre",0.591
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","50 bis 59 Jahre",0.512
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","50 bis 59 Jahre",0.5571
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","50 bis 59 Jahre",0.4416
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","50 bis 59 Jahre",0.3543
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","50 bis 59 Jahre",0.4227
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","50 bis 59 Jahre",0.4738
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","50 bis 59 Jahre",0.497
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.6029
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","60 bis 69 Jahre",0.4588
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.498
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.6654
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.4572
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.5444
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.5295
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.568
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.669
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.6995
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.6548
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.6208
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.5415
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.5789
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.5491
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.5111
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.6251
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","60 bis 69 Jahre",0.4737
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.5032
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.6704
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.4697
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.5573
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.5477
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.5987
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.6739
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.7104
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.6594
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.6237
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.5529
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.5962
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.567
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.5313
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.584
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","60 bis 69 Jahre",0.4453
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.4932
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.6608
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.4458
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.5325
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.514
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.542
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.6646
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.6903
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.6507
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.6181
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.531
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.5641
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.5339
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.4927
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",-0.0411
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","60 bis 69 Jahre",-0.0284
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","60 bis 69 Jahre",-0.01
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",-0.0096
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",-0.0239
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",-0.0248
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",-0.0337
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",-0.0567
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",-0.0093
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",-0.0201
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",-0.0087
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",-0.0056
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",-0.0219
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",-0.032
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","60 bis 69 Jahre",-0.0331
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",-0.0386
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.1441
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","60 bis 69 Jahre",0.1252
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.1782
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.1504
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.1708
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.1683
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.1544
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.1394
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.1602
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.1459
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.1585
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.1746
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.1561
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.1662
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.1599
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.1383
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.5967
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","60 bis 69 Jahre",0.4992
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.6154
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.5901
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.4746
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.6119
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.6232
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.6242
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.6625
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.6849
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.7063
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.6454
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.6853
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.6082
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","60 bis 69 Jahre",0.4639
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","60 bis 69 Jahre",0.5458
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.6107
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.5941
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.6407
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","60 bis 69 Jahre",0.5358
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.6311
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.6165
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.5095
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.6334
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.6351
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.6398
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.6847
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.7014
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.7253
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.6566
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.7047
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.6202
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","60 bis 69 Jahre",0.4982
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","60 bis 69 Jahre",0.5628
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.6219
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.6191
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",-0.0802
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","60 bis 69 Jahre",-0.0667
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","60 bis 69 Jahre",-0.0286
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",-0.0481
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",-0.0634
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",-0.0393
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",-0.0218
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",-0.0285
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",-0.0406
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",-0.0301
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",-0.0347
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",-0.0205
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",-0.0354
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",-0.0221
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","60 bis 69 Jahre",-0.0628
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","60 bis 69 Jahre",-0.031
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","60 bis 69 Jahre",-0.0206
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",-0.0457
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.153
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","60 bis 69 Jahre",0.1293
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.1579
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.1432
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.1437
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.1612
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.1668
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.1542
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.1536
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.1532
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.1463
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.1736
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.1595
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.1953
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","60 bis 69 Jahre",0.1239
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","60 bis 69 Jahre",0.1691
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.1767
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.0964
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","60 bis 69 Jahre",0.5605
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","60 bis 69 Jahre",0.4691
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","60 bis 69 Jahre",0.6025
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","60 bis 69 Jahre",0.5684
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","60 bis 69 Jahre",0.4461
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","60 bis 69 Jahre",0.5941
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","60 bis 69 Jahre",0.6133
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","60 bis 69 Jahre",0.6113
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","60 bis 69 Jahre",0.6441
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","60 bis 69 Jahre",0.6713
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","60 bis 69 Jahre",0.6906
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","60 bis 69 Jahre",0.6361
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","60 bis 69 Jahre",0.6693
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","60 bis 69 Jahre",0.5981
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","60 bis 69 Jahre",0.4354
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","60 bis 69 Jahre",0.5318
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","60 bis 69 Jahre",0.6013
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","60 bis 69 Jahre",0.5734
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.6309
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","70 bis 79 Jahre",0.4908
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.538
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.6722
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.4854
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.5834
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.5961
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.6135
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.6868
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.7315
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.6815
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.6514
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.6084
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.6351
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.6086
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.5629
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.6867
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","70 bis 79 Jahre",0.5405
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.5832
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.713
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.5367
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.6211
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.6425
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.6699
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.7238
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.7758
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.7208
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.6831
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.6485
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.6886
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.6627
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.6119
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.5894
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","70 bis 79 Jahre",0.4516
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.5023
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.6401
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.4449
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.5527
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.5606
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.5707
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.657
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.6975
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.6494
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.6257
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.575
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.5935
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.5665
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.5224
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",-0.0973
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","70 bis 79 Jahre",-0.0889
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","70 bis 79 Jahre",-0.0809
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",-0.0729
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",-0.0918
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",-0.0684
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",-0.0819
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",-0.0992
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",-0.0668
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",-0.0783
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",-0.0714
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",-0.0574
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",-0.0735
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",-0.0951
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","70 bis 79 Jahre",-0.0962
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",-0.0895
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.1721
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","70 bis 79 Jahre",0.1572
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.2182
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.1572
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.199
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.2073
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.221
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.1849
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.178
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.1779
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.1852
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.2052
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.223
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.2224
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.2193
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.1901
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.6545
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","70 bis 79 Jahre",0.548
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.6718
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.6292
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.5353
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.6431
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.6569
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.6492
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.664
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.6763
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.6931
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.6581
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.6671
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.5927
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","70 bis 79 Jahre",0.4676
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","70 bis 79 Jahre",0.5428
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.5947
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.5727
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.7424
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","70 bis 79 Jahre",0.6229
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.7315
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.6996
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.6164
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.6946
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.7073
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.7116
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.7232
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.7124
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.7266
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.6824
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.704
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.6498
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","70 bis 79 Jahre",0.5322
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","70 bis 79 Jahre",0.5918
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.6383
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.6206
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",-0.1479
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","70 bis 79 Jahre",-0.1259
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","70 bis 79 Jahre",-0.1002
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",-0.118
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",-0.1358
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",-0.087
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",-0.0849
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",-0.105
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",-0.0997
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",-0.0616
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",-0.0571
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",-0.0414
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",-0.0629
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",-0.0976
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","70 bis 79 Jahre",-0.1105
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","70 bis 79 Jahre",-0.0838
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","70 bis 79 Jahre",-0.0746
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",-0.0818
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.2108
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","70 bis 79 Jahre",0.1781
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.2143
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.1823
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.2044
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.1924
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.2005
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.1792
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.1551
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.1446
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.1331
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.1863
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.1413
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.1798
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","70 bis 79 Jahre",0.1276
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","70 bis 79 Jahre",0.1661
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.1607
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.075
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","70 bis 79 Jahre",0.5945
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","70 bis 79 Jahre",0.497
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","70 bis 79 Jahre",0.6313
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","70 bis 79 Jahre",0.5816
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","70 bis 79 Jahre",0.4806
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","70 bis 79 Jahre",0.6076
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","70 bis 79 Jahre",0.6224
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","70 bis 79 Jahre",0.6066
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","70 bis 79 Jahre",0.6235
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","70 bis 79 Jahre",0.6508
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","70 bis 79 Jahre",0.6695
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","70 bis 79 Jahre",0.641
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","70 bis 79 Jahre",0.6411
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","70 bis 79 Jahre",0.5522
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","70 bis 79 Jahre",0.4217
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","70 bis 79 Jahre",0.508
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","70 bis 79 Jahre",0.5637
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","70 bis 79 Jahre",0.5388
+"overall","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.4475
+"overall","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","80+ Jahre",0.3671
+"overall","Kanton Neuenburg",3,2012-06-17,"Managed Care","80+ Jahre",0.3916
+"overall","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",0.5073
+"overall","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.3505
+"overall","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.429
+"overall","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.4297
+"overall","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.44
+"overall","Kanton Neuenburg",9,2013-11-24,"1 zu 12","80+ Jahre",0.5024
+"overall","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",0.5275
+"overall","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.5159
+"overall","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.4988
+"overall","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.4561
+"overall","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.4502
+"overall","Kanton Neuenburg",15,2015-06-14,"Erbschaftssteuer","80+ Jahre",0.4349
+"overall","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.4305
+"m","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.569
+"m","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","80+ Jahre",0.4693
+"m","Kanton Neuenburg",3,2012-06-17,"Managed Care","80+ Jahre",0.4947
+"m","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",0.6141
+"m","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.4586
+"m","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.5391
+"m","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.5428
+"m","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.5678
+"m","Kanton Neuenburg",9,2013-11-24,"1 zu 12","80+ Jahre",0.6201
+"m","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",0.6529
+"m","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.6248
+"m","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.6058
+"m","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.572
+"m","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.5709
+"m","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","80+ Jahre",0.5616
+"m","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.5561
+"f","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.3865
+"f","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","80+ Jahre",0.3142
+"f","Kanton Neuenburg",3,2012-06-17,"Managed Care","80+ Jahre",0.3384
+"f","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",0.4522
+"f","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.2948
+"f","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.3711
+"f","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.3724
+"f","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.3763
+"f","Kanton Neuenburg",9,2013-11-24,"1 zu 12","80+ Jahre",0.4418
+"f","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",0.4638
+"f","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.4585
+"f","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.4431
+"f","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.3946
+"f","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.389
+"f","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","80+ Jahre",0.3708
+"f","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.3647
+"gap","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","80+ Jahre",-0.1825
+"gap","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","80+ Jahre",-0.1551
+"gap","Kanton Neuenburg",3,2012-06-17,"Managed Care","80+ Jahre",-0.1563
+"gap","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",-0.1619
+"gap","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",-0.1638
+"gap","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","80+ Jahre",-0.168
+"gap","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",-0.1704
+"gap","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","80+ Jahre",-0.1915
+"gap","Kanton Neuenburg",9,2013-11-24,"1 zu 12","80+ Jahre",-0.1783
+"gap","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",-0.1891
+"gap","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",-0.1663
+"gap","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",-0.1627
+"gap","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","80+ Jahre",-0.1774
+"gap","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",-0.182
+"gap","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","80+ Jahre",-0.1908
+"gap","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",-0.1914
+"ref","Kanton Neuenburg",1,2012-03-11,"Ferieninitiative","80+ Jahre",-0.0113
+"ref","Kanton Neuenburg",2,2012-05-13,"Lokale Wahlen","80+ Jahre",0.0335
+"ref","Kanton Neuenburg",3,2012-06-17,"Managed Care","80+ Jahre",0.0718
+"ref","Kanton Neuenburg",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",-0.0077
+"ref","Kanton Neuenburg",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.0641
+"ref","Kanton Neuenburg",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.0529
+"ref","Kanton Neuenburg",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.0546
+"ref","Kanton Neuenburg",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.0114
+"ref","Kanton Neuenburg",9,2013-11-24,"1 zu 12","80+ Jahre",-0.0064
+"ref","Kanton Neuenburg",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",-0.0261
+"ref","Kanton Neuenburg",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.0196
+"ref","Kanton Neuenburg",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.0526
+"ref","Kanton Neuenburg",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.0707
+"ref","Kanton Neuenburg",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.0375
+"ref","Kanton Neuenburg",15,2014-06-14,"Erbschaftssteuer","80+ Jahre",0.0456
+"ref","Kanton Neuenburg",16,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.0577
+"overall","Stadt Luzern",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.4729
+"overall","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","80+ Jahre",0.4013
+"overall","Stadt Luzern",3,2012-06-17,"Managed Care","80+ Jahre",0.4836
+"overall","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",0.4406
+"overall","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.3601
+"overall","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.4206
+"overall","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.45
+"overall","Stadt Luzern",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.4341
+"overall","Stadt Luzern",9,2013-11-24,"1 zu 12","80+ Jahre",0.4424
+"overall","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",0.4233
+"overall","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.4357
+"overall","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.4148
+"overall","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.4035
+"overall","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.3226
+"overall","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","80+ Jahre",0.2542
+"overall","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","80+ Jahre",0.3134
+"overall","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","80+ Jahre",0.3283
+"overall","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.3344
+"m","Stadt Luzern",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.6389
+"m","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","80+ Jahre",0.543
+"m","Stadt Luzern",3,2012-06-17,"Managed Care","80+ Jahre",0.6271
+"m","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",0.589
+"m","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.4889
+"m","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.5313
+"m","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.5556
+"m","Stadt Luzern",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.5632
+"m","Stadt Luzern",9,2013-11-24,"1 zu 12","80+ Jahre",0.5638
+"m","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",0.5211
+"m","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.5399
+"m","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.5138
+"m","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.5141
+"m","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.3969
+"m","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","80+ Jahre",0.3311
+"m","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","80+ Jahre",0.3917
+"m","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","80+ Jahre",0.3985
+"m","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.4251
+"gap","Stadt Luzern",1,2012-03-11,"Ferieninitiative","80+ Jahre",-0.2467
+"gap","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","80+ Jahre",-0.2105
+"gap","Stadt Luzern",3,2012-06-17,"Managed Care","80+ Jahre",-0.2127
+"gap","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",-0.2194
+"gap","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",-0.1903
+"gap","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","80+ Jahre",-0.1645
+"gap","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",-0.1567
+"gap","Stadt Luzern",8,2013-09-22,"Wehrpflicht","80+ Jahre",-0.1913
+"gap","Stadt Luzern",9,2013-11-24,"1 zu 12","80+ Jahre",-0.1797
+"gap","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",-0.1451
+"gap","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",-0.1545
+"gap","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",-0.147
+"gap","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","80+ Jahre",-0.164
+"gap","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",-0.1117
+"gap","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","80+ Jahre",-0.1156
+"gap","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","80+ Jahre",-0.1174
+"gap","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","80+ Jahre",-0.1052
+"gap","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",-0.1357
+"ref","Stadt Luzern",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.0292
+"ref","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","80+ Jahre",0.0314
+"ref","Stadt Luzern",3,2012-06-17,"Managed Care","80+ Jahre",0.0261
+"ref","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",-0.0063
+"ref","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.0292
+"ref","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","80+ Jahre",-0.0301
+"ref","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",-0.0064
+"ref","Stadt Luzern",8,2013-09-22,"Wehrpflicht","80+ Jahre",-0.0359
+"ref","Stadt Luzern",9,2013-11-24,"1 zu 12","80+ Jahre",-0.0665
+"ref","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",-0.1084
+"ref","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",-0.1243
+"ref","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",-0.057
+"ref","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","80+ Jahre",-0.1223
+"ref","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",-0.0903
+"ref","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","80+ Jahre",-0.0858
+"ref","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","80+ Jahre",-0.0633
+"ref","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","80+ Jahre",-0.1057
+"ref","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",-0.1633
+"f","Stadt Luzern",1,2012-03-11,"Ferieninitiative","80+ Jahre",0.3922
+"f","Stadt Luzern",2,2012-05-06,"Lokale Wahlen","80+ Jahre",0.3325
+"f","Stadt Luzern",3,2012-06-17,"Managed Care","80+ Jahre",0.4144
+"f","Stadt Luzern",4,2012-09-23,"Schutz vor Passivrauchen","80+ Jahre",0.3696
+"f","Stadt Luzern",5,2012-11-25,"Tierseuchengesetz","80+ Jahre",0.2986
+"f","Stadt Luzern",6,2013-03-03,"Abzockerinitiative","80+ Jahre",0.3668
+"f","Stadt Luzern",7,2013-06-09,"Volkswahl des Bundesrates","80+ Jahre",0.3989
+"f","Stadt Luzern",8,2013-09-22,"Wehrpflicht","80+ Jahre",0.3719
+"f","Stadt Luzern",9,2013-11-24,"1 zu 12","80+ Jahre",0.3841
+"f","Stadt Luzern",10,2014-02-09,"Masseneinwanderungsinitiative","80+ Jahre",0.376
+"f","Stadt Luzern",11,2014-05-18,"Mindestlohninitiative","80+ Jahre",0.3854
+"f","Stadt Luzern",12,2014-09-28,"Einheitskrankenkasse","80+ Jahre",0.3668
+"f","Stadt Luzern",13,2014-11-30,"Pauschalsteuer","80+ Jahre",0.3501
+"f","Stadt Luzern",14,2015-03-08,"Energie- statt Mehrwertsteuer","80+ Jahre",0.2852
+"f","Stadt Luzern",15,2015-03-29,"Kantons- und Regierungsratswahlen","80+ Jahre",0.2155
+"f","Stadt Luzern",16,2015-05-10,"2. Wahlgang Regierungsratswahlen","80+ Jahre",0.2743
+"f","Stadt Luzern",17,2015-06-14,"Erbschaftssteuer","80+ Jahre",0.2933
+"f","Stadt Luzern",18,2015-10-18,"National- und Ständeratswahlen","80+ Jahre",0.2894
