@@ -89,7 +89,7 @@ ui <- fluidPage(
   )
 )
 
-server <- function(input, output) {
+server <- function(input, output){
   
   getData <- reactive({
     d <- data[which(data$entity %in% input$radio),]

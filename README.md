@@ -13,10 +13,6 @@ Shinyapps: https://cdermont.shinyapps.io/turnoutr/
 ![turnoutr-shinyapp](turnoutr.png)
 
 ```R
-library(shiny)
-library(ggplot2)
-library(plotly)
-
 runGitHub("rshinycd", "cdermont", subdir = "turnoutr/")
 ```
 
@@ -28,10 +24,5 @@ Shinyapps: https://cdermont.shinyapps.io/parteitrends/
 ![parteitrends-shinyapp](parteitrends.png)
 
 ```R
-library(shiny)
-library(ggplot2)
-library(dplyr)
-library(tidyr)
-
 runGitHub("rshinycd", "cdermont", subdir = "parteitrends/")
 ```
