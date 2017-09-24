@@ -26,3 +26,14 @@ Shinyapps: https://cdermont.shinyapps.io/parteitrends/
 ```R
 runGitHub("rshinycd", "cdermont", subdir = "parteitrends/")
 ```
+
+## votr
+Vote results for all federal votes, 1866-2017. Allows to compare yes shares and turnout for any two votes in Swiss direct democratic history. 
+
+Shinyapps: https://cdermont.shinyapps.io/votr/
+
+![votr-shinyapp](votr.png)
+
+```R
+runGitHub("rshinycd", "cdermont", subdir = "votr/")
+```
