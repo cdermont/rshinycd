@@ -2,7 +2,7 @@ library(shiny)
 library(ggplot2)
 library(plotly)
 
-data <- read.table("www/votedata.csv", sep=";", header=T, stringsAsFactors = F)
+data <- read.table("www/votedata.csv", sep=";", header=T, stringsAsFactors = F, fileEncoding = "UTF-8")
 data[,c("suffrage","Stimmbeteiligung","Ja")] <- 
   lapply(c("suffrage","Stimmbeteiligung","Ja"), function(x) as.numeric(data[,x]))
 data$vote <- factor(data$vote, as.character(unique(data$vote)))
@@ -30,7 +30,7 @@ shinyServer(function(input, output){
     d <- getData()
     
     p <- ggplot(d) + 
-      geom_point(aes(Stimmbeteiligung, Ja, fill=ling, size=sqrt(suffrage)*2),
+      geom_point(aes(Ja, Stimmbeteiligung, fill=ling, size=sqrt(suffrage)*2),
                  alpha=0.8, color="black", shape=21) +
       scale_x_continuous(labels=scales::percent_format(), limits=c(0,1)) +
       scale_y_continuous(labels=scales::percent_format(), limits=c(0,1)) +
@@ -41,7 +41,7 @@ shinyServer(function(input, output){
            x="Ja in %") +
       theme_minimal() +
       theme(legend.position="none",
-            text=element_text(size=14))
+            text=element_text(size=15))
     p
   })
   
@@ -53,16 +53,17 @@ shinyServer(function(input, output){
     p <- ggplot(d) + 
       geom_point(aes(x, y, fill=ling, size=sqrt(suffrage.x)*2),
                  alpha=0.9, color="black", shape=21) +
+      #     geom_smooth(aes(x, y), method=lm, se=F) +
       scale_x_continuous(labels=scales::percent_format(), limits=c(0,1)) +
       scale_y_continuous(labels=scales::percent_format(), limits=c(0,1)) +
       scale_fill_brewer(palette="Set1") +
-      labs(title=paste0("Vergleich: ", input$selectionx, " und ", input$selectiony),
+      labs(title="Vorlagenvergleich",
            subtitle=paste0(input$key, " in %. Darstellung: Clau Dermont"),
-           x=paste0(substr(input$selectionx, 1, 35)), 
-           y=paste0(substr(input$selectiony, 1, 35))) +
+           x=paste0(substr(input$selectionx, 1, 45)), 
+           y=paste0(substr(input$selectiony, 1, 45))) +
       theme_minimal() +
       theme(legend.position="none",
-            text=element_text(size=14))
+            text=element_text(size=15))
     p
   })
   

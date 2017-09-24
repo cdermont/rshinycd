@@ -4,7 +4,7 @@ library(shiny)
 library(ggplot2)
 library(plotly)
 
-data <- read.table("www/votedata.csv", sep=";", header=T, stringsAsFactors = F)
+data <- read.table("www/votedata.csv", sep=";", header=T, stringsAsFactors = F, fileEncoding = "UTF-8")
 data[,c("suffrage","Stimmbeteiligung","Ja")] <- 
   lapply(c("suffrage","Stimmbeteiligung","Ja"), function(x) as.numeric(data[,x]))
 data$vote <- factor(data$vote, as.character(unique(data$vote)))
@@ -124,6 +124,7 @@ server <- function(input, output){
     p <- ggplot(d) + 
       geom_point(aes(x, y, fill=ling, size=sqrt(suffrage.x)*2),
                  alpha=0.9, color="black", shape=21) +
+#     geom_smooth(aes(x, y), method=lm, se=F) +
       scale_x_continuous(labels=scales::percent_format(), limits=c(0,1)) +
       scale_y_continuous(labels=scales::percent_format(), limits=c(0,1)) +
       scale_fill_brewer(palette="Set1") +
