@@ -2,7 +2,7 @@
 
 library(shiny)
 library(ggplot2)
-library(plotly)
+library(ggswissmaps)
 
 data <- read.table("www/votedata.csv", sep=";", header=T, stringsAsFactors = F, fileEncoding = "UTF-8")
 data[,c("suffrage","Stimmbeteiligung","Ja")] <- 
@@ -29,7 +29,12 @@ ui <- fluidPage(
                            <a href='https://bfs.admin.ch/'>
                            BfS</a>")
                       ),
-               column(9, HTML("</br>"),
+               column(9, 
+                      div(
+                        style = "position:relative",
+                        plotOutput("map", width="600px", height = "600px")
+                      ),
+                      HTML("</br>"),
                       div(
                         style = "position:relative",
                         plotOutput("scatter", width="600px", height = "600px",
@@ -95,6 +100,12 @@ server <- function(input, output){
     d <- d
     })
   
+  getMap <- reactive({
+    chmap <- shp_df[["g1k15"]]
+    d <- data[which(data$vote %in% input$selection),]
+    mapdata <- full_join(chmap, d, by=c("KTNR"="nr"))
+  })
+  
   # Tab 1
   output$scatter <- renderPlot({
     
@@ -114,6 +125,26 @@ server <- function(input, output){
       theme(legend.position="none",
             text=element_text(size=15))
     p
+  })
+  
+  output$map <- renderPlot({
+    
+    mapdata <- getMap()
+    
+    p <- ggplot(mapdata, aes(x = long, y = lat, group = group, fill=Ja)) +
+      geom_polygon(color="white") +
+      coord_equal() +
+      labs(title=paste("Kantonsresultate: ", input$selection, sep=""),
+           subtitle="Darstellung: Clau Dermont",
+           fill="Ja in %", y="", x="") +
+      scale_fill_gradient2(low="#CC0000", mid="grey95", high="#0066CC", midpoint = 0.5) +
+      theme_minimal() +
+      theme(panel.grid.major=element_blank(), 
+            panel.grid.minor=element_blank(),
+            axis.text=element_blank(),
+            text=element_text(size=15))
+    p
+    
   })
   
   #Tab 2
@@ -182,7 +213,6 @@ server <- function(input, output){
                     "<b> Y: </b>", point$y*100, "%")))
     )
   })
-  
 }
 
 shinyApp(ui = ui, server = server)
