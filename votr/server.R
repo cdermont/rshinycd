@@ -23,6 +23,12 @@ shinyServer(function(input, output){
     names(d) <- gsub(paste0(input$key,"."), "", names(d), fixed = TRUE)
     d <- d
   })
+
+  getMap <- reactive({
+    chmap <- shp_df[["g1k15"]]
+    d <- data[which(data$vote %in% input$selection),]
+    mapdata <- full_join(chmap, d, by=c("KTNR"="nr"))
+  })
   
   # Tab 1
   output$scatter <- renderPlot({
@@ -43,6 +49,26 @@ shinyServer(function(input, output){
       theme(legend.position="none",
             text=element_text(size=15))
     p
+  })
+  
+  output$map <- renderPlot({
+    
+    mapdata <- getMap()
+    
+    p <- ggplot(mapdata, aes(x = long, y = lat, group = group, fill=Ja)) +
+      geom_polygon(color="white") +
+      coord_equal() +
+      labs(title=paste("Kantonsresultate: ", input$selection, sep=""),
+           subtitle="Darstellung: Clau Dermont",
+           fill="Ja in %", y="", x="") +
+      scale_fill_gradient2(low="#CC0000", mid="grey95", high="#0066CC", midpoint = 0.5) +
+      theme_minimal() +
+      theme(panel.grid.major=element_blank(), 
+            panel.grid.minor=element_blank(),
+            axis.text=element_blank(),
+            text=element_text(size=15))
+    p
+    
   })
   
   #Tab 2

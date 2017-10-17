@@ -18,7 +18,12 @@ shinyUI(fluidPage(
                            <a href='https://bfs.admin.ch/'>
                            BfS</a>")
                       ),
-               column(9, HTML("</br>"),
+               column(9, 
+                      div(
+                        style = "position:relative",
+                        plotOutput("map", width="600px", height = "600px")
+                      ),
+                      HTML("</br>"),
                       div(
                         style = "position:relative",
                         plotOutput("scatter", width="600px", height = "600px",
@@ -27,7 +32,7 @@ shinyUI(fluidPage(
                         uiOutput("hover_info")
                       )
                )
-                      )
+             )
              ),
     tabPanel("Vergleich",
              fluidRow(
