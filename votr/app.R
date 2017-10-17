@@ -156,7 +156,7 @@ server <- function(input, output){
     wellPanel(
       style = style,
       p(HTML(paste0("<b> Kanton: </b>", point$canton, "<br/>",
-                    "<b> Ja: </b>", point$Ja*100, "<br/>",
+                    "<b> Ja: </b>", point$Ja*100, "%<br/>",
                     "<b> Beteiligung: </b>", point$Stimmbeteiligung*100, "%")))
     )
   })
