@@ -2,6 +2,7 @@
 
 library(shiny)
 library(ggplot2)
+library(dplyr)
 library(ggswissmaps)
 
 data <- read.table("www/votedata.csv", sep=";", header=T, stringsAsFactors = F, fileEncoding = "UTF-8")
