@@ -1,0 +1,13 @@
+name: votr
+title: votr
+username:
+account: cdermont
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 218051
+bundleId: 1061036
+url: https://cdermont.shinyapps.io/votr/
+when: 1509967829.45898
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: recode_bfsdata.R|server.R|ui.R|www/context.csv|www/px-x-1703030000_100.csv|www/votedata_new.csv
