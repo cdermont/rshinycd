@@ -3,13 +3,13 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 
-data <- read.table("www/data.csv", sep=",", header=T, 
+data <- read.table("www/data.csv", sep=";", header=T, 
                    stringsAsFactors = F, fileEncoding="UTF-8")
 data$Datum <- as.Date(data$Datum, format="%d.%m.%Y")
 data$Zeit <- as.POSIXct(paste(data$Datum, data$Zeit, sep=" "), 
                         format="%Y-%m-%d %H:%M:%S")
 
-cantonal <- read.table("www/cantonalhistory.csv", sep=",", header=T, 
+cantonal <- read.table("www/cantonalhistory.csv", sep=";", header=T, 
                        stringsAsFactors = F, fileEncoding="UTF-8")
 
 shinyServer(function(input, output){
