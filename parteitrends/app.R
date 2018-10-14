@@ -6,7 +6,7 @@ library(dplyr)
 library(tidyr)
 
 data <- read.table("www/data.csv", sep=";", header=T, 
-                   stringsAsFactors = F)
+                   stringsAsFactors = F, fileEncoding = 'UTF-8')
 data$Datum <- as.Date(data$Datum, format="%d.%m.%Y")
 data$Zeit <- as.POSIXct(paste(data$Datum, data$Zeit, sep=" "), 
                         format="%Y-%m-%d %H:%M:%S")
@@ -42,7 +42,6 @@ ui <- fluidPage(
                            Rechts = SVP, FDP, EDU.SD.Lega.MCR.</br>
                            Übrige = automatisch berechnet.</br></br>
                            <b>Umsetzung: <a href='https://twitter.com/claudermont'>@claudermont</a>, 
-                           <a href='https://twitter.com/sandroluescher'>@sandroluescher</a></br>
                            Datenquelle:</b> <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/kantonale-parlamenswahlen.html'>Bundesamt für Statistik</a></br>")
                       ),
                column(9, 
