@@ -102,6 +102,6 @@ ggplot(d, aes(x=reorder(Kanton, id), color=partei)) +
         legend.position="none", 
         strip.text.x=element_text(face="bold"))
 
-ggsave("parteitrends_ow.png", dpi=300,
+ggsave("20190317_parteitrends.png", dpi=300,
        units=c("cm"),
        width=28, height=21)

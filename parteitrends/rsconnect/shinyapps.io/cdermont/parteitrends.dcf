@@ -5,9 +5,9 @@ account: cdermont
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 166822
-bundleId: 1642192
+bundleId: 1945949
 url: https://cdermont.shinyapps.io/parteitrends/
-when: 1539532992.57266
+when: 1552854064.76214
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: parteitrends.png|parteitrends.R|parteitrends_ow.png|Thumbs.db|trend19682018.R|old/server.R|old/setup.R|old/test.R|old/ui.R|www/cant_elections.csv|www/KTW_v1900b2018_Wahldatum.xlsx|img
+ignoredFiles: parteitrends.png|parteitrends.R|parteitrends_ow.png|Thumbs.db|trend19682018.R|old/server.R|old/setup.R|old/test.R|old/ui.R|www/cant_elections.csv|www/KTW_v1900b2018_Wahldatum.xlsx
